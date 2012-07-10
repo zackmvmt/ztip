@@ -1,5 +1,5 @@
-#Z Tip: A Super Simple Tooltip System
-ztip is a very simple tooltip system that allows for some basic styles,
+#Just The Tip
+ztip is a very simple and lightweight tooltip system that allows for some basic styles,
 without all the fluff that other solutions provide.
 
 ##How to use
