@@ -19,8 +19,13 @@ $('.tip').ztip();
 ##Optional Customization
 The `ztip()` function can accept a number of different options (in the form of an object)
 that will allow you to alter the animation and look of the tooltips:
-* `"speed": number` how fast the tip animation is (300 default, 0 for instant)
-* `"delay": number` how long before the animation starts (400 default, 0 for instant)
-* `"bgColor": "string"` convenience property for changing the background color
-* `"css": {object}` a key/value hash of css attributes for the main box
-* `"carrot": {object}` a key/value hash of css attributes for the carrrot
+
+`"speed": number` how fast the tip animation is (300 default, 0 for instant)
+
+`"delay": number` how long before the animation starts (400 default, 0 for instant)
+
+`"bgColor": "string"` convenience property for changing the background color
+
+`"css": {object}` a key/value hash of css attributes for the main box
+
+`"carrot": {object}` a key/value hash of css attributes for the carrrot
